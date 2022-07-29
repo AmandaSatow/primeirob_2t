@@ -1,7 +1,25 @@
 body{
-  background: #ADD8E6;
+  background: #65b0c9;
 }
 
 h1 {
   text-align: center;
+}
+
+.caixa1 {
+  background: rgb(229, 238, 243);
+  position: absolute;
+  height: 200px;
+width: 200px;
+color: rgb(13, 49, 49);
+left: 43%;
+}
+
+.caixa2 {
+  position: absolute;
+  background:rgb(13, 49, 49);
+  color: rgb(229, 238, 243);
+  height: 200px;
+  width: 200px;
+  right: 43%;
 }
