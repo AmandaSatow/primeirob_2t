@@ -109,6 +109,22 @@ li a:hover{
 
 .conteudo01{
   top: 45px;
+  color: rgb(27, 75, 75);
+  position: absolute;
+  text-align: center;
+  font-size: 20px;
+  left: 40%;
+}
+
+#dragao{
+  height: 90%;
+  position: absolute;
+  left: 40%;
+}
+
+.conteudo02{
+  top: 45px;
+  color: rgb(27, 75, 75);
   position: absolute;
   text-align: center;
   font-size: 20px;
